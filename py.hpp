@@ -28,7 +28,7 @@ std::string calculator(std::string task){
     /// Agar siz windowsda bolsangiz quyidagi system funksiyasini ishlata olasiz
     // system("python my_py_file_id676756478545574.py");
     /// Mac ishlatsangiz bu qismni ishlatasiz
-    system("python3 my_py_file_id676756478545574.py");
+    // system("python3 my_py_file_id676756478545574.py");
     std::ifstream my_task_question("my_py_code_task_eval.txt");
     std::string a, b;
     while(getline(my_task_question, a)){
@@ -36,8 +36,8 @@ std::string calculator(std::string task){
         break;
     }
     /// Dastur vaqt davomida 2 ta ortiqcha fayl yaratadi. 
-    /// Agar ularni o'chirmoqchi bolsangiz kommentariyani olib tashlang
-    system("rm my_py_file_id676756478545574.py"); system("rm my_py_code_task_eval.txt");
+    /* Agar ularni o'chirmoqchi bolsangiz kommentariyani olib tashlang */
+    // system("rm my_py_file_id676756478545574.py"); system("rm my_py_code_task_eval.txt");
     
     return b;
 }
