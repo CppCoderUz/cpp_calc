@@ -2,7 +2,7 @@ C++ dasturlash tilida yozilgan sodda kalkulyator.
 Ushbu dastur faqat konsolda ishlaydi. Misol kiritib ENTER bossangiz javobni ekranga chiqaradi.
 calculyator funksiyasi python dasturlash tili asosida ishlaydi. 
 Qadamlar:
-  1: Funksiyaga string tipida misol jo'natiladi.
+  1: Funksiyaga string tipida misol jo'natiladi. </br>
   2: Funksiya uni python faylga (*.py) yozib qoyadi.
   3: system() funksiyasi ushbu python faylni run qiladi.
   4: Ushbu run qilingan python fayl bitta *.txt fayl ochadi va misol javobini ushbu faylga yozadi
