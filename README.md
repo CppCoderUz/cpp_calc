@@ -1,6 +1,6 @@
-C++ dasturlash tilida yozilgan sodda kalkulyator. 
-Ushbu dastur faqat konsolda ishlaydi. Misol kiritib ENTER bossangiz javobni ekranga chiqaradi.
-calculyator funksiyasi python dasturlash tili asosida ishlaydi. 
+C++ dasturlash tilida yozilgan sodda kalkulyator. </br>
+Ushbu dastur faqat konsolda ishlaydi. Misol kiritib ENTER bossangiz javobni ekranga chiqaradi.</br>
+calculyator funksiyasi python dasturlash tili asosida ishlaydi. </br>
 Qadamlar:</br>
   </t>1: Funksiyaga string tipida misol jo'natiladi. </br>
   2: Funksiya uni python faylga (*.py) yozib qoyadi.</br>
