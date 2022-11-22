@@ -10,4 +10,4 @@ Qadamlar:</br>
   6: Keyin c++ ifstream orqali txt fayldagi misol javobini qabul qilib oladi va return orqali qaytaradi.</br>
   7: print() funksiyasi ushbu javobni ekranga chiqaradi</br>
 </br>
-<a href="http://t.me/cpp_coder_uz">Telegram</a>
+<a href="http://t.me/CppCoderUz">Telegram</a>
